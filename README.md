@@ -1,0 +1,2 @@
+# NameGenerator
+Name generator library
